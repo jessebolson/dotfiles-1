@@ -27,7 +27,6 @@ install highlight
 install hub
 install icu4c
 install imagemagick
-install irssi
 install jpeg
 install jq
 install jsmin
@@ -40,7 +39,6 @@ install libtool
 install libyaml
 install lsof
 install lua
-install mercurial
 install mysql
 install ngrep
 install node
@@ -67,7 +65,7 @@ install tree
 install unixodbc
 install vim
 install watch
-install wemux
+install weechat
 install wget
 install wkhtmltopdf
 install wxmac
