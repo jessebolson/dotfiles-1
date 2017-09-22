@@ -1,11 +1,11 @@
 [user]
-	name = Arjan van der Gaag
-	email = arjan@arjanvandergaag.nl
+	name = Jesse Burdette Olson
+	email = jesse@arkham.city
 [color]
 	ui = auto
 [core]
 	excludesfile = ~/.gitignore
-	editor = /usr/local/bin/emacsclient -t
+	editor = /usr/local/bin/vim
 	quotepath = false
 [init]
 	templatedir = ~/.gittemplate
@@ -14,8 +14,7 @@
 [difftool]
 	prompt = false
 [github]
-	user = avdgaag
-	password = !security 2>&1 >/dev/null find-generic-password -gs github.password | ruby -e 'print $1 if STDIN.gets =~ /^password: \\\"(.*)\\\"$/'
+	user = jessebolson
 [branch]
 	autosetuprebase = always
 [mergetool]
