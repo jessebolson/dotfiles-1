@@ -1,5 +1,4 @@
-export EDITOR="/usr/local/Cellar/emacs/24.5/bin/emacsclient -c"
-export ALTERNATE_EDITOR="/usr/local/Cellar/emacs/24.5/bin/emacs"
+export EDITOR="/usr/local/bin/vim"
 export VISUAL="/usr/local/bin/emacsclient -c -a emacs"
 export PATH="$HOME/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/sbin:$PATH"
 export RBENV_ROOT=/usr/local/var/rbenv
@@ -11,4 +10,3 @@ export XML_CATALOG_FILES=/usr/local/etc/xml/catalog
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 export PATH="/usr/local/heroku/bin:$PATH"
 export PATH="./.git/safe/../../bin:$PATH"
-
