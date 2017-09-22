@@ -1,5 +1,5 @@
 export EDITOR="/usr/local/bin/vim"
-export VISUAL="/usr/local/bin/emacsclient -c -a emacs"
+export VISUAL="/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code"
 export PATH="$HOME/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/sbin:$PATH"
 export RBENV_ROOT=/usr/local/var/rbenv
 export PAGER=/usr/bin/less
